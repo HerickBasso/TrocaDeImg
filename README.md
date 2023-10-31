@@ -4,7 +4,7 @@
 <h2> Aprendemos como fazer a troca entre 2 imagens, linguagem utilizada: Java </h2>
   
 <h1> Layout mobile </h1>
-<img src="./visuimg.jpg" width="250px" heigth="150px"alt="img"/> 
+<img src="./visuImg.jpg" width="250px" heigth="150px"alt="img"/> 
   
 <h1> BackEnd </h1>
 <h2> Java </h2>
